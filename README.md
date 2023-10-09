@@ -1,0 +1,2 @@
+# EYE-BALL-CURSOR-MOVEMENT-USING-OPENCV
+In this project we are instructing mouse cursor to change its location based on eye ball movement, in this application using OPENCV we will connect to webcam and then extract each frame from the webcam and pass to OPENCV to detect eye balls location. Once eye ball location detected then we can extract x and y coordinates of eye balls from OPENCV and then using python pyautogui API we can instruct mouse to change its current location to given eyeballs X and Y Coordinates. Below is the example to move mouse in python.
